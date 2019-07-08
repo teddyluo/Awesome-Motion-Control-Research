@@ -124,4 +124,4 @@ Badue C, Guidolini R, Carneiro R V, et al. Self-Driving Cars: A Survey[J]. arXiv
 
 ## 路径平滑 
 
-[1] :point_right: **Ravankar, A., Ravankar, A., Kobayashi, Y., Hoshino, Y., & Peng, C. C. (2018). Path smoothing techniques in robot navigation: State-of-the-art, current and future challenges. Sensors, 18(9), 3170**. [pdf](https://www.mdpi.com/1424-8220/18/9/3170/pdf)  (推荐指数：:star::star::star::star::star:) :gem:
+[1] :point_right: **Ravankar A, Ravankar A, Kobayashi Y, et al. Path smoothing techniques in robot navigation: State-of-the-art, current and future challenges[J]. Sensors, 2018, 18(9): 3170**. [pdf](https://www.mdpi.com/1424-8220/18/9/3170/pdf)  (推荐指数：:star::star::star::star::star:) :gem:
