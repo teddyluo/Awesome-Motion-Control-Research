@@ -1,15 +1,24 @@
 Awesome-Motion-Control-Research
-
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ---
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 
 一份关于无人驾驶汽车的运动控制相关文章资源列表
 
 > 资源列表会不断更新
 
-<!-- TOC -->autoauto- [0.1. 运动规划综述(英文) :us:](#01-运动规划综述英文-us)auto- [0.2. 运动规划综述(中文) :cn:](#02-运动规划综述中文-cn)auto- [0.3. 路径平滑 :us:](#03-路径平滑-us)autoauto<!-- /TOC -->
+<!-- vscode-markdown-toc -->
+* 1. [运动规划综述(英文)](#)
+* 2. [运动规划综述(中文)](#-1)
+* 3. [路径平滑](#-1)
 
-## 运动规划综述(英文)
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
+##  1. <a name=''></a>运动规划综述(英文)
 
 **2019**
 
@@ -97,7 +106,7 @@ Badue C, Guidolini R, Carneiro R V, et al. Self-Driving Cars: A Survey[J]. arXiv
 [35] Y. K. Hwang and N. Ahuja, “Gross motion planning---a survey,” ACM Computing Surveys, vol. 24, no. 3, pp. 219–291, Sep. 1992.
 
 
-## 运动规划综述(中文)
+##  2. <a name='-1'></a>运动规划综述(中文)
 
 [1] 孙建, 王鹏, 张启彬,等. 不确定环境信息下非完整机器人运动规划方法综述[C]// 系统仿真技术及其应用. 2015.
 
@@ -122,6 +131,6 @@ Badue C, Guidolini R, Carneiro R V, et al. Self-Driving Cars: A Survey[J]. arXiv
 
 [11] S. M. L. Valle, “Motion Planning,” IEEE Robotics Automation Magazine, vol. 18, no. 2, pp. 108–118, Jun. 2011.
 
-## 路径平滑 
+##  3. <a name='-1'></a>路径平滑 
 
 [1] :point_right: **Ravankar A, Ravankar A, Kobayashi Y, et al. Path smoothing techniques in robot navigation: State-of-the-art, current and future challenges[J]. Sensors, 2018, 18(9): 3170**. [pdf](https://www.mdpi.com/1424-8220/18/9/3170/pdf)  (推荐指数：:star::star::star::star::star:) :gem:
