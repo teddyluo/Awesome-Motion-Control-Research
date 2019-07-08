@@ -1,11 +1,13 @@
 Awesome-Motion-Control-Research
+
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ---
 
 一份关于无人驾驶汽车的运动控制相关文章资源列表
 
 > 资源列表会不断更新
 
-## 运动规划综述(英文)
+## 运动规划综述(英文) :us:
 
 **2019**
 
@@ -13,18 +15,18 @@ Badue C, Guidolini R, Carneiro R V, et al. Self-Driving Cars: A Survey[J]. arXiv
 
 **2018**
 
-[1]M. N. Zafar and J. C. Mohanta, “Methodology for Path Planning and Optimization of Mobile Robots: A Review,” Procedia Computer Science, vol. 133, pp. 141–152, Jan. 2018. [pdf](https://www.sciencedirect.com/science/article/pii/S1877050918309621/pdf?md5=158b90308d94d4d388ae57bb369957a7&pid=1-s2.0-S1877050918309621-main.pdf)
+[1] M. N. Zafar and J. C. Mohanta, “Methodology for Path Planning and Optimization of Mobile Robots: A Review,” Procedia Computer Science, vol. 133, pp. 141–152, Jan. 2018. [pdf](https://www.sciencedirect.com/science/article/pii/S1877050918309621/pdf?md5=158b90308d94d4d388ae57bb369957a7&pid=1-s2.0-S1877050918309621-main.pdf)
 
-[2]D. Youakim and P. Ridao, “Motion planning survey for autonomous mobile manipulators underwater manipulator case study,” Robotics and Autonomous Systems, vol. 107, pp. 20–44, Sep. 2018.
+[2] D. Youakim and P. Ridao, “Motion planning survey for autonomous mobile manipulators underwater manipulator case study,” Robotics and Autonomous Systems, vol. 107, pp. 20–44, Sep. 2018.
 
-[3]S. G. Tzafestas, “Mobile Robot Control and Navigation: A Global Overview,” J Intell Robot Syst, vol. 91, no. 1, pp. 35–58, Jul. 2018.
+[3] S. G. Tzafestas, “Mobile Robot Control and Navigation: A Global Overview,” J Intell Robot Syst, vol. 91, no. 1, pp. 35–58, Jul. 2018.
 
-[4]**W. Schwarting, J. Alonso-Mora, and D. Rus, “Planning and Decision-Making for Autonomous Vehicles,” Annual Review of Control, Robotics, and Autonomous Systems, vol. 1, no. 1, pp. 187–210, 2018.** (推荐指数：五颗星), [HTML](https://www.annualreviews.org/doi/full/10.1146/annurev-control-060117-105157)
+[4] **W. Schwarting, J. Alonso-Mora, and D. Rus, “Planning and Decision-Making for Autonomous Vehicles,” Annual Review of Control, Robotics, and Autonomous Systems, vol. 1, no. 1, pp. 187–210, 2018.** (推荐指数：:star::star::star::star::star:), [HTML](https://www.annualreviews.org/doi/full/10.1146/annurev-control-060117-105157) :gem:
 
-[5]**M. G. Mohanan and A. Salgoankar, “A survey of robotic motion planning in dynamic environments,” Robotics and Autonomous Systems, vol. 100, pp. 171–185, Feb. 2018**. (推荐指数：五颗星), 速度规划, [pdf](./pdfs/A-survey-of-robotic-motion-planning-in-dynamic-environments.pdf)
+[5] **M. G. Mohanan and A. Salgoankar, “A survey of robotic motion planning in dynamic environments,” Robotics and Autonomous Systems, vol. 100, pp. 171–185, Feb. 2018**. (推荐指数：:star::star::star::star::star:), 速度规划, [pdf](./pdfs/A-survey-of-robotic-motion-planning-in-dynamic-environments.pdf) :gem:
 
 
-[6]Z. Kingston, M. Moll, and L. E. Kavraki, “Sampling-Based Methods for Motion Planning with Constraints,” Annual Review of Control, Robotics, and Autonomous Systems, vol. 1, no. 1, pp. 159–185, 2018.
+[6] Z. Kingston, M. Moll, and L. E. Kavraki, “Sampling-Based Methods for Motion Planning with Constraints,” Annual Review of Control, Robotics, and Autonomous Systems, vol. 1, no. 1, pp. 159–185, 2018.
 
 [7]H. Jahanshahi and N. N. Sari, “Robot Path Planning Algorithms: A Review of Theory and Experiment,” arXiv:1805.08137 [cs], May 2018.
 
@@ -32,13 +34,13 @@ Badue C, Guidolini R, Carneiro R V, et al. Self-Driving Cars: A Survey[J]. arXiv
 
 **2016**
 
-[9]**B. Paden, M. Cap, S. Z. Yong, D. Yershov, and E. Frazzoli, “A Survey of Motion Planning and Control Techniques for Self-Driving Urban Vehicles,” IEEE Transactions on Intelligent Vehicles, vol. 1, no. 1, pp. 33–55, Mar. 2016.** (推荐指数：五颗星), [pdf](https://arxiv.org/pdf/1604.07446)
+[9]**B. Paden, M. Cap, S. Z. Yong, D. Yershov, and E. Frazzoli, “A Survey of Motion Planning and Control Techniques for Self-Driving Urban Vehicles,” IEEE Transactions on Intelligent Vehicles, vol. 1, no. 1, pp. 33–55, Mar. 2016.** (推荐指数：:star::star::star::star::star:), [pdf](https://arxiv.org/pdf/1604.07446) :gem:
 
 [10]I. Noreen, A. Khan, and Z. Habib, “Optimal Path Planning using RRT* based Approaches: A Survey and Future Directions,” International Journal of Advanced Computer Science and Applications, vol. 7, no. 11, 2016.
 
 [11]T. T. Mac, C. Copot, D. T. Tran, and R. De Keyser, “Heuristic approaches in robot path planning: A survey,” Robotics and Autonomous Systems, vol. 86, pp. 13–28, Dec. 2016.
 
-[12]**D. Gonzalez, J. Perez, V. Milanes, and F. Nashashibi, “A Review of Motion Planning Techniques for Automated Vehicles,” IEEE Transactions on Intelligent Transportation Systems, vol. 17, no. 4, pp. 1135–1145, Apr. 2016.** (推荐指数：五颗星), [pdf](https://users.cs.duke.edu/~pdinesh/sources/07339478.pdf)
+[12]**D. Gonzalez, J. Perez, V. Milanes, and F. Nashashibi, “A Review of Motion Planning Techniques for Automated Vehicles,” IEEE Transactions on Intelligent Transportation Systems, vol. 17, no. 4, pp. 1135–1145, Apr. 2016.** (推荐指数：:star::star::star::star::star:), [pdf](https://users.cs.duke.edu/~pdinesh/sources/07339478.pdf) :gem:
 
 
 **2015**
@@ -47,7 +49,7 @@ Badue C, Guidolini R, Carneiro R V, et al. Self-Driving Cars: A Survey[J]. arXiv
 
 [14]R. S. Pol and M. Murugan, “A review on indoor human aware autonomous mobile robot navigation through a dynamic environment survey of different path planning algorithm and methods,” in 2015 International Conference on Industrial Instrumentation and Control (ICIC), 2015, pp. 1339–1344.
 
-[15]**C. Katrakazas, M. Quddus, W.-H. Chen, and L. Deka, “Real-time motion planning methods for autonomous on-road driving: State-of-the-art and future research directions,” Transportation Research Part C: Emerging Technologies, vol. 60, pp. 416–442, Nov. 2015.** (推荐指数：五颗星), [HTML](https://www.sciencedirect.com/science/article/pii/S0968090X15003447)
+[15]**C. Katrakazas, M. Quddus, W.-H. Chen, and L. Deka, “Real-time motion planning methods for autonomous on-road driving: State-of-the-art and future research directions,” Transportation Research Part C: Emerging Technologies, vol. 60, pp. 416–442, Nov. 2015.** (推荐指数：:star::star::star::star::star:), [HTML](https://www.sciencedirect.com/science/article/pii/S0968090X15003447) :gem:
 
 
 [16]M. Hoy, A. S. Matveev, and A. V. Savkin, “Algorithms for collision-free navigation of mobile robots in complex cluttered environments: a survey,” Robotica, vol. 33, no. 3, pp. 463–497, Mar. 2015.
@@ -91,7 +93,7 @@ Badue C, Guidolini R, Carneiro R V, et al. Self-Driving Cars: A Survey[J]. arXiv
 [35]Y. K. Hwang and N. Ahuja, “Gross motion planning---a survey,” ACM Computing Surveys, vol. 24, no. 3, pp. 219–291, Sep. 1992.
 
 
-## 运动规划综述(中文)
+## 运动规划综述(中文) :cn:
 
 [1] 孙建, 王鹏, 张启彬,等. 不确定环境信息下非完整机器人运动规划方法综述[C]// 系统仿真技术及其应用. 2015.
 
@@ -116,6 +118,6 @@ Badue C, Guidolini R, Carneiro R V, et al. Self-Driving Cars: A Survey[J]. arXiv
 
 [11] S. M. L. Valle, “Motion Planning,” IEEE Robotics Automation Magazine, vol. 18, no. 2, pp. 108–118, Jun. 2011.
 
-## 路径平滑
+## 路径平滑 :us:
 
-[1] **Ravankar, A., Ravankar, A., Kobayashi, Y., Hoshino, Y., & Peng, C. C. (2018). Path smoothing techniques in robot navigation: State-of-the-art, current and future challenges. Sensors, 18(9), 3170**. [pdf](https://www.mdpi.com/1424-8220/18/9/3170/pdf)
+[1] **Ravankar, A., Ravankar, A., Kobayashi, Y., Hoshino, Y., & Peng, C. C. (2018). Path smoothing techniques in robot navigation: State-of-the-art, current and future challenges. Sensors, 18(9), 3170**. [pdf](https://www.mdpi.com/1424-8220/18/9/3170/pdf) （:star::star::star::star::star:）
